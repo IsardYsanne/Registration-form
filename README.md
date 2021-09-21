@@ -27,3 +27,8 @@ script.js - Checking the validity of the entered data (password and mail) on the
 logout.php - Logout button handler and clearing session with mail and password
 <br>
 <br>
+![login1](https://user-images.githubusercontent.com/78618492/134232179-7ee8fd46-e632-4517-9eaf-698db610d532.jpg)
+<br>
+<br>
+![phpmyadmin](https://user-images.githubusercontent.com/78618492/134232215-ad5d8565-8d9b-46a4-9a3a-c70b9c596924.jpg)
+

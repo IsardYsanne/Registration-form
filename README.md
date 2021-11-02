@@ -15,7 +15,7 @@ index.php - main content
 dbconnect.php - database connection
 <br>
 <br>
-registration.php - As part of the session, we process the data entered by the user. If this user is not yet registered, we send his data to the database using SQL query.
+registration.php - As part of the session, we process the data entered by the user. If this user is not yet registered, we send his data to the database using SQL query.(rus: В рамках сессии мы обрабатываем данные, введенные пользователем. Если этот пользователь еще не зарегистрирован, мы отправляем его данные в базу данных с помощью SQL-запроса.)
 <br>
 <br>
 captcha.php - generates a captcha and displays an image
